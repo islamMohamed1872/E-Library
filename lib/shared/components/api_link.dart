@@ -1,0 +1,17 @@
+const String linkServerName = "https://readingzon.com/ebook";
+const String linkImageRoot = "https://readingzon.com/ebook/upload";
+const String linkSignUp = "$linkServerName/auth/signup.php";
+const String linkLogin = "$linkServerName/auth/signin.php";
+const String linkGetUserDara = "$linkServerName/auth/getUserData.php";
+const String linkViewallBooks = "$linkServerName/books/viewall.php";
+const String linkSaveBooks = "$linkServerName/books/save.php";
+const String linkSearchBooks = "$linkServerName/books/search.php";
+const String linkBooksCategory = "$linkServerName/books/viewcategory.php";
+const String linkHomeBooks = "$linkServerName/books/homescreenitems.php";
+const String linkSetFirebaseId = "$linkServerName/auth/setfirebaseid.php";
+const String linkSetGoogleId = "$linkServerName/auth/setgoogleid.php";
+const String linkViewallEngilshBooks = "$linkServerName/books/viewallE.php";
+const String linkViewallArabicBooks = "$linkServerName/books/viewallA.php";
+const String linkViewSavedBooks = "$linkServerName/books/viewsaved.php";
+const String linkGetSavedBooks = "$linkServerName/books/getsavedbooks.php";
+const String linkUnSaveBook = "$linkServerName/books/unsave.php";
