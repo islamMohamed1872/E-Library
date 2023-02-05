@@ -7,7 +7,9 @@ import 'package:http/http.dart' as http;
 
 String _basicAuth = 'Basic ' +
     base64Encode(
-        utf8.encode('islam.mohamed1872@gmail.com:islam mohamed__1872001'));
+        utf8.encode('
+//private username and password
+'));
 
 Map<String, String> myheaders = {'authorization': _basicAuth};
 
